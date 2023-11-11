@@ -1,6 +1,6 @@
 const CONFIG = {
 
-  LOGO_IMG: '/Logo.webp',
+  LOGO_IMG: '/https://img1.doubanio.com/icon/ul162819814-100.jpg',
   TOP_BAR: true, // 显示顶栏
   TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
   LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>体制打工人<br/>考公笔记分享博主</div>',
